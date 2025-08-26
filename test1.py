@@ -1,7 +1,5 @@
-#test chnage
-
-#tesst chnage two
-
-#branch test
-
-#enna da varala
+def calculator():
+    print("calculator")
+    print("choose operatoiron")
+    print("Addition")
+    
